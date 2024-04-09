@@ -7,6 +7,9 @@ const TodoItem = props => {
   return (
     <li className="todo-item">
       <p className="title">{title}</p>
+      <button type="button" className="delete-btn">
+        Delete
+      </button>
     </li>
   )
 }
