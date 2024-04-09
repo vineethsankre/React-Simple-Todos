@@ -30,3 +30,16 @@
 .todos-list {
   padding-left: 0px;
 }
+
+@media screen and (min-width: 768px) {
+  .simple-todos-container {
+    padding: 48px;
+    margin-top: 96px;
+    margin-bottom: 96px;
+  }
+  .heading{
+    font-size: 48px;
+    margin-top: 32px;
+    margin-bottom: 48px;
+  }
+}
