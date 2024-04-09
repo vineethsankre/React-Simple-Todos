@@ -6,16 +6,6 @@
 </div>
 <br/>
 
-### Design Files
-
-<details>
-<summary>Click to view</summary>
-
-- [Extra Small (Size < 576px) and Small (Size >= 576px)](https://assets.ccbp.in/frontend/content/react-js/simple-todos-sm-output-v2.png)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://assets.ccbp.in/frontend/content/react-js/simple-todos-lg-output-v2.png)
-
-</details>
-
 ### Set Up Instructions
 
 <details>
