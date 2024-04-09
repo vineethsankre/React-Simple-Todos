@@ -1,3 +1,6 @@
+### Outcome:
+The aim of the “Simple Todos” project is to create a straightforward web application that allows users to manage their daily tasks. Users can view a list of predefined todos and delete them as needed. It provides a minimalistic interface for organizing and tracking tasks efficiently.
+
 ### Preview:
 
 <br/>
