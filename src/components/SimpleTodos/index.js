@@ -1,5 +1,6 @@
 import {Component} from 'react'
 import TodoItem from '../TodoItem'
+import './index.css'
 
 const initialTodosList = [
   {
@@ -47,7 +48,7 @@ class SimpleTodos extends Component {
     return (
       <div className="app-container">
         <div className="simple-todos-container">
-          <h1>Simple Todos</h1>
+          <h1 className="heading">Simple Todos</h1>
           <ul className="todos-list">
             {todosList.map(eachTodo => (
               <TodoItem key={eachTodo.id} todoDetails={eachTodo} />
