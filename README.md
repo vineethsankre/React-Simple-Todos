@@ -1,4 +1,4 @@
-### Refer to the image below:
+### Preview:
 
 <br/>
 <div style="text-align: center;">
